@@ -1,0 +1,20 @@
+name: 機能リクエスト
+description: 新機能や改善の提案
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: overview
+    attributes:
+      label: 概要
+      description: 提案する機能や改善の概要を記述してください
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: 参考情報
+      description: その他、参考になる情報があれば記述してください
+    validations:
+      required: false
