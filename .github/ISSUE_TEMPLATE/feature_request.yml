@@ -12,6 +12,14 @@ body:
       required: true
 
   - type: textarea
+    id: concern
+    attributes:
+      label: 懸念点
+      description: 提案する機能や改善で懸念点があれば記述してください
+    validations:
+      required: false
+
+  - type: textarea
     id: references
     attributes:
       label: 参考情報
