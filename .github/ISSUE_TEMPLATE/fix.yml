@@ -1,4 +1,4 @@
-name: [Fix] 修正リクエスト
+name: "[Fix] 修正リクエスト"
 description: コードの改善、リファクタリング、小さな問題の修正を提案する
 title: "[Fix] "
 labels: ["fix"]
