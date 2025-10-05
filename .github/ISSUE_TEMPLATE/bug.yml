@@ -1,4 +1,4 @@
-name: バグ報告
+name: "[Bug] バグ報告"
 description: バグや不具合を報告する
 title: "[Bug] "
 labels: ["bug"]
